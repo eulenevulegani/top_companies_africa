@@ -1,2 +1,2 @@
-# top_companies_africa
-Using Python for web scraping and Power BI for visualization to  uncover key insights into Africa's top  companies.
+# Analyzing top companies in Africa by Revenue 
+In today’s data-driven world, insightful analysis of business information can provide a significant competitive edge. Recently, I analyzed the largest companies in Africa by revenue, extracted from the Wikipedia page listing the top 100 African companies. Using Python for data scraping and Power BI for data visualization, I transformed raw data into actionable insights that reveal the landscape of Africa’s top industries and companies.
